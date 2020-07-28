@@ -8,7 +8,7 @@ I’m currently working with great minds from Verizon Wireless(Team Gizmo Land),
 - 💬 Ask me about: Python, Flask, PC building, Windows, Android.
 - 📫 How to reach me: my email is the best way
 - 😄 Pronouns: You can call me Tej
-- 🔭 My favorite game: CS 1.6 (yes, I am old school)
+- :video_game: My favorite game: CS 1.6 (yes, I am old school)
 - ⚡ Fun fact: I learned massage and acupressure from The Himalayas 
 
 <!--
