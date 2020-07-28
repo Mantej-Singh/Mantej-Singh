@@ -6,7 +6,7 @@
 - 💬 Ask me about: Python, Flask, PC building, Windows, Android.
 - 📫 How to reach me: my email is the best way
 - 😄 Pronouns: You can call me Tej
-- ⚡ Fun fact: I learned massage and acupressure from Himalaya 
+- ⚡ Fun fact: I learned massage and acupressure from The Himalayas 
 
 <!--
 **Mantej-Singh/Mantej-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
