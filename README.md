@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am Mantej Singh👋
+
 
 - 🔭 I’m currently working with great minds from Verizon Wireless(Team Gizmo Land), where my python code analyzes the data from logs and plots the lat/long on a map. As simple as that.
 - 👯 I’m looking to collaborate on: Python with visualization 
