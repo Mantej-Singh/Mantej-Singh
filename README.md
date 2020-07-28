@@ -2,7 +2,10 @@
 I am a Python developer, the main reason I like coding in Python is its syntax, its easy to read and helps me to code in few steps (most of the time in one line)
 Other than coding, I spend my time listening to music, working out, movies on weekends, and cooking. On Sundays, I spend my time volunteering at my local <a href="https://letsshareameal.org/">Sikh temple</a>.
 
-<img align="center" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/VerizonWireless.png"></a>
+<p align="center">
+  <img align="center" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/VerizonWireless.png"></a>
+</p>
+
 
 :heavy_check_mark:I’m currently working with great minds:star2: from Verizon Wireless(Team Gizmo Land), where my python code analyzes the data from logs and plots the lat/long on a map. As simple as that.
 
