@@ -1,6 +1,6 @@
 ### Hi, I am Mantej Singh👋
 
-## More about me 🌎: <img align="left" width="150" height="150" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/octocat.png?raw=true"></a>
+## More about me 🌎: <img align="left" width="150" height="150" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/octocat.png"></a>
 - 🔭 I’m currently working with great minds from Verizon Wireless(Team Gizmo Land), where my python code analyzes the data from logs and plots the lat/long on a map. As simple as that.
 - 👯 I’m looking to collaborate on: Python with visualization 
 - 💬 Ask me about: Python, Flask, PC building, Windows, Android.
