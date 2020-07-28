@@ -3,7 +3,7 @@ I am a Python developer, the main reason I like coding in Python is its syntax, 
 Other than coding, I spend my time listening to music, working out, movies on weekends, and cooking. On Sundays, I spend my time volunteering at my local <a href="https://letsshareameal.org/">Sikh temple</a>.
 
 <p align="center">
-  <img width="660" height="300" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/VerizonWireless.png"></a>
+  <img width="660" height="200" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/VerizonWireless.png"></a>
 </p>
 
 
