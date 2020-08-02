@@ -11,7 +11,7 @@ Other than coding, I spend my time listening to music, working out, movies on we
 
 ## More about me 🌱: <img align="left" width="370" height="350" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/octocat.png"></a>
 - 👯 I’m looking to collaborate on: Python with visualization 
-- 💬 Ask me about: Python, Flask, PC building, Windows, Android.
+- 💬 Ask me about: Python, Flask, <a href="https://github.com/Mantej-Singh/Building-a-PC/blob/master/README.md"> PC building </a>, Windows, Android.
 - 📫 How to reach me: my email is the best way
 - 😄 Pronouns: You can call me Tej
 - :video_game: My favorite game: CS 1.6 (yes, I am old school)
