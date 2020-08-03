@@ -7,7 +7,7 @@ Other than coding, I spend my time listening to music, working out, movies on we
 </p>
 
 
-:heavy_check_mark:I’m currently working with great minds:star2: from Verizon Wireless (Gizmo Team from Gizmo Land), where my python code analyzes the data from logs and plots the lat/long on a map. As simple as that.
+:heavy_check_mark:I’m currently working with great minds:star2: of Verizon Wireless (Gizmo Team from Gizmo Land), where my python code analyzes the data from logs and plots the lat/long on a map. As simple as that.
 
 ## More about me 🌱: <img align="left" width="370" height="350" src="https://github.com/Mantej-Singh/Mantej-Singh/blob/master/octocat.png"></a>
 - 👯 I’m looking to collaborate on: Python with visualization 
