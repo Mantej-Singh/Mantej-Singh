@@ -18,9 +18,8 @@ Other than coding, I spend my time listening to music, working out, movies on we
 - ⚡ Fun fact: I learned massage and acupressure from The Himalayas 
 
 
-<p align="center">
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</p>
+
 
 
 <!--
