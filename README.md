@@ -17,7 +17,8 @@ Other than coding, I spend my time listening to music, working out, movies on we
 - :video_game: My favorite game: CS 1.6 (yes, I am old school)
 - ⚡ Fun fact: I learned massage and acupressure from The Himalayas 
 
-https://forthebadge.com/images/badges/built-with-love.svg
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 <!--
 **Mantej-Singh/Mantej-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
