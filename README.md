@@ -14,7 +14,7 @@ Other than coding, I spend my time listening to music, working out, movies on we
 - 💬 Ask me about: Python, Flask, <a href="https://github.com/Mantej-Singh/Building-a-PC/blob/master/README.md"> PC building </a>, Windows, <a href="https://github.com/Mantej-Singh/Health-Station-Hub"> Android </a>.
 - 📫 How to reach me: my email is the best way
 - 😄 Pronouns: You can call me Tej
-- :video_game: My favorite game: CS 1.6 (yes, I am old school)
+- :video_game: My favorite games: CS 1.6 and Cyberpunk 2077
 - ⚡ Fun fact: I learned massage and acupressure from The Himalayas 
 
 
